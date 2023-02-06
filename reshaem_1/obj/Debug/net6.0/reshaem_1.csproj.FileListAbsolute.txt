@@ -1,0 +1,15 @@
+C:\Users\Артём\Desktop\GB\reshaem_1\bin\Debug\net6.0\reshaem_1.exe
+C:\Users\Артём\Desktop\GB\reshaem_1\bin\Debug\net6.0\reshaem_1.deps.json
+C:\Users\Артём\Desktop\GB\reshaem_1\bin\Debug\net6.0\reshaem_1.runtimeconfig.json
+C:\Users\Артём\Desktop\GB\reshaem_1\bin\Debug\net6.0\reshaem_1.dll
+C:\Users\Артём\Desktop\GB\reshaem_1\bin\Debug\net6.0\reshaem_1.pdb
+C:\Users\Артём\Desktop\GB\reshaem_1\obj\Debug\net6.0\reshaem_1.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\GB\reshaem_1\obj\Debug\net6.0\reshaem_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Desktop\GB\reshaem_1\obj\Debug\net6.0\reshaem_1.AssemblyInfoInputs.cache
+C:\Users\Артём\Desktop\GB\reshaem_1\obj\Debug\net6.0\reshaem_1.AssemblyInfo.cs
+C:\Users\Артём\Desktop\GB\reshaem_1\obj\Debug\net6.0\reshaem_1.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\GB\reshaem_1\obj\Debug\net6.0\reshaem_1.dll
+C:\Users\Артём\Desktop\GB\reshaem_1\obj\Debug\net6.0\refint\reshaem_1.dll
+C:\Users\Артём\Desktop\GB\reshaem_1\obj\Debug\net6.0\reshaem_1.pdb
+C:\Users\Артём\Desktop\GB\reshaem_1\obj\Debug\net6.0\reshaem_1.genruntimeconfig.cache
+C:\Users\Артём\Desktop\GB\reshaem_1\obj\Debug\net6.0\ref\reshaem_1.dll
